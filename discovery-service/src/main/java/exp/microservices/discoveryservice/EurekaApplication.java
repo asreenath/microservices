@@ -1,4 +1,6 @@
-package exp.microservices.discoveryservice; /**
+package exp.microservices.discoveryservice;
+
+/**
  * Created by Sairam on 7/9/17.
  */
 import org.springframework.boot.SpringApplication;
